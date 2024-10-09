@@ -1,0 +1,36 @@
+barat
+https://maritim.bmkg.go.id/area/pelayanan/?kode=M.01&hari=1
+timur
+https://maritim.bmkg.go.id/area/pelayanan/?kode=M.02&hari=1
+
+wxrev
+MMID67 WAOK 300000
+WXREV 05294
+96695 03526 21206 29661 00054 25213
+
+acctok 1715989515859562496-Pd6ZJzfvrkIcUY9B06tZG1ICpTHfRo 
+acctoksec 3odymzqFQV0vyJX6KisCXT4XWE8Y8pAemGb04i7FZb9z8
+client id XzdmTHl4UThCV1dMNE1wVm9WZzA6MTpjaQ
+client sec 6c-1Bz3MLKwuDhQgaaynE6MXwxZFltQCrs4pM9UHbdi_StfMZn 2.0 -> 6c-1Bz3MLKwuDhQgaaynE6MXwxZFltQCrs4pM9UHbdi_StfMZn
+
+bearer AAAAAAAAAAAAAAAAAAAAAAVSvwEAAAAAHs9S2DikGwkM3igpbhPf9xLbUwc%3DFIQ5O23WxAhzbfjlK71mSDs7gZL3BMY6ArDMrG9OpwDOX5LIly
+apikey 599J57rICu8d0Ml04tH1SiKlc
+apikeysec vdfpxXe3d2nYRFwbCXPHiWXM5pL20d1iVUFx5ooo5f2NAGYW1b
+Acces Token 1715989515859562496-OKOnKVStDqdnqVUw53GYWGwZA5yxio
+Acces Token Secret EZHXanFSRWxVkqrgtPfB3moBqC9nUCtSN1KePMQbqQyGK
+Client ID XzdmTHl4UThCV1dMNE1wVm9WZzA6MTpjaQ
+Client Secret jU0ZmxGNCYpBwEn7SKOPD1BEJZvKxzosh_tYFSIUQOXjayKNcN
+
+# homepage
+logo_path = "D://dev//latsar//assets//logo.png"  # homepage
+image_path_guide = "D://dev//latsar//assets//guide.png"
+
+# mainapp
+icon_path = "D://dev//latsar//assets//logo.ico"
+
+# 404
+image_path_kembali = "D://dev//latsar//assets//back-button.png"
+
+# wxrev
+image_path_kembali = "D://dev//latsar//assets//back-button.png"
+wxrev_bg_path = "C://Dev//tid600k//latsar//wxrev//wxrev_assets//wxrev_bg.png"
